@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://x0mqdqu7x72b"
+path="res://.godot/imported/Idle (36x34).png-3e9ce3a0b1097bc62f9546c32d2f087b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Pixel Adventure 1/Free/Items/Boxes/Box1/Pixel Adventure 2/Enemies/Bee/Idle (36x34).png"
+dest_files=["res://.godot/imported/Idle (36x34).png-3e9ce3a0b1097bc62f9546c32d2f087b.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=false
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
